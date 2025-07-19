@@ -1,3 +1,5 @@
+NetGuardian is a cybersecurity project developed for the ITWeb Security Hackathon 2025 Clinching the Award of Best Overall User Interface, aimed at combating phishing attacks in real time. I co-led the technical implementation of an AI-driven threat detection system that integrates directly into users’ browsers through a custom extension. On the backend, we leveraged Python Flask to handle malicious link classification and Redis for efficient message queuing between services. I was primarily responsible for designing and building the interactive dashboard using Next.js, which provided real-time visualization of detected threats, URL logs, and system responses. The project emphasized secure data flow, responsiveness, and developer collaboration, with all source control and DevOps workflows managed through Git. NetGuardian showcased our team’s ability to combine frontend UX, backend intelligence, and cybersecurity awareness into a unified platform.
+
 
 YouTube Demo SSHACK25 : https://youtu.be/QpULuEAWKx8?si=vfPIRZoVPLdPdcVY
 
